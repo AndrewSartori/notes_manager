@@ -33,7 +33,7 @@ class Form extends React.Component {
             title: "",
             body: ""
         });
-        console.log("SUBMITTED NEW NOTE")
+        console.log("SUBMITTED A NEW NOTE")
     }
 
     render() {
